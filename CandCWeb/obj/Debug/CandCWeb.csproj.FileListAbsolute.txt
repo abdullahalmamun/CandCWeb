@@ -1,0 +1,18 @@
+C:\Users\Web App Develop .Net\Desktop\today\CandCWeb\CandCWeb\obj\Debug\CandCWeb.csprojResolveAssemblyReference.cache
+C:\Users\Web App Develop .Net\Desktop\today\CandCWeb\CandCWeb\bin\CandCWeb.dll.config
+C:\Users\Web App Develop .Net\Desktop\today\CandCWeb\CandCWeb\bin\CandCWeb.dll
+C:\Users\Web App Develop .Net\Desktop\today\CandCWeb\CandCWeb\bin\CandCWeb.pdb
+C:\Users\Web App Develop .Net\Desktop\today\CandCWeb\CandCWeb\obj\Debug\CandCWeb.dll
+C:\Users\Web App Develop .Net\Desktop\today\CandCWeb\CandCWeb\obj\Debug\CandCWeb.pdb
+C:\Users\Web App Develop .Net\Downloads\today\CandCWeb\CandCWeb\obj\Debug\CandCWeb.csprojResolveAssemblyReference.cache
+C:\Users\Web App Develop .Net\Downloads\today\CandCWeb\CandCWeb\obj\Debug\CandCWeb.dll
+C:\Users\Web App Develop .Net\Downloads\today\CandCWeb\CandCWeb\obj\Debug\CandCWeb.pdb
+C:\Users\Web App Develop .Net\Downloads\today\CandCWeb\CandCWeb\bin\CandCWeb.dll.config
+C:\Users\Web App Develop .Net\Downloads\today\CandCWeb\CandCWeb\bin\CandCWeb.dll
+C:\Users\Web App Develop .Net\Downloads\today\CandCWeb\CandCWeb\bin\CandCWeb.pdb
+D:\DotNET Project\today\CandCWeb\CandCWeb\bin\CandCWeb.dll.config
+D:\DotNET Project\today\CandCWeb\CandCWeb\bin\CandCWeb.dll
+D:\DotNET Project\today\CandCWeb\CandCWeb\bin\CandCWeb.pdb
+D:\DotNET Project\today\CandCWeb\CandCWeb\obj\Debug\CandCWeb.csprojResolveAssemblyReference.cache
+D:\DotNET Project\today\CandCWeb\CandCWeb\obj\Debug\CandCWeb.dll
+D:\DotNET Project\today\CandCWeb\CandCWeb\obj\Debug\CandCWeb.pdb
